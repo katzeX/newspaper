@@ -1,0 +1,36 @@
+F:\practica\Ziare\bin\Debug\Ziare.exe.config
+F:\practica\Ziare\bin\Debug\Ziare.exe
+F:\practica\Ziare\bin\Debug\Ziare.pdb
+F:\practica\Ziare\obj\Debug\Ziare.csprojAssemblyReference.cache
+F:\practica\Ziare\obj\Debug\Ziare.Form1.resources
+F:\practica\Ziare\obj\Debug\Ziare.Properties.Resources.resources
+F:\practica\Ziare\obj\Debug\Ziare.csproj.GenerateResource.cache
+F:\practica\Ziare\obj\Debug\Ziare.csproj.CoreCompileInputs.cache
+F:\practica\Ziare\obj\Debug\Ziare.exe
+F:\practica\Ziare\obj\Debug\Ziare.pdb
+F:\practica\Ziare\obj\Debug\Ziare.Form2.resources
+F:\practica\Ziare\obj\Debug\Ziare.Form3.resources
+F:\practica\Ziare\obj\Debug\Ziare.Form4.resources
+F:\practica\Ziare\obj\Debug\Ziare.csproj.ResolveComReference.cache
+F:\practica\Ziare\obj\Debug\Ziare.Form5.resources
+F:\practica\Ziare\obj\Debug\Ziare.Form6.resources
+F:\practica\Ziare\obj\Debug\Ziare.Form7.resources
+F:\practica\Ziare\obj\Debug\Ziare.Form8.resources
+D:\колледж\practica an III\Ziare\bin\Debug\Ziare.exe.config
+D:\колледж\practica an III\Ziare\bin\Debug\Ziare.exe
+D:\колледж\practica an III\Ziare\bin\Debug\Ziare.pdb
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.csprojAssemblyReference.cache
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.csproj.ResolveComReference.cache
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form1.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form2.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form3.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form4.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form5.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form6.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form7.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Form8.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.Properties.Resources.resources
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.csproj.GenerateResource.cache
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.csproj.CoreCompileInputs.cache
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.exe
+D:\колледж\practica an III\Ziare\obj\Debug\Ziare.pdb
